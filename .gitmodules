@@ -1,0 +1,18 @@
+[submodule "Spectromorph-25"]
+	path = Spectromorph-25
+	url = git@github.com-BlakkTyger:pclubiitk/Spectromorph-25.git
+[submodule "Scylla-Agent-25"]
+	path = Scylla-Agent-25
+	url = git@github.com-BlakkTyger:pclubiitk/Scylla-Agent-25.git
+[submodule "Campus-Compass-25"]
+	path = Campus-Compass-25
+	url = git@github.com-BlakkTyger:pclubiitk/Campus-Compass-25.git
+[submodule "Game-Hacking-25"]
+	path = Game-Hacking-25
+	url = git@github.com-BlakkTyger:pclubiitk/Game-Hacking-25.git
+[submodule "Lord-of-Chains-25"]
+	path = Lord-of-Chains-25
+	url = git@github.com-BlakkTyger:pclubiitk/Lord-of-Chains-25.git
+[submodule "Database-Engine-25"]
+	path = Database-Engine-25
+	url = git@github.com-BlakkTyger:pclubiitk/Database-Engine-25.git
